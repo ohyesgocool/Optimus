@@ -1,0 +1,24 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "thoughtsofautoma1",
+  "access_key": "qwF1HwxDqg1si6B8jRW3",
+
+  "capabilities": {
+    "project": "First TestNg Android Project",
+    "build": "Clear Trip Execution",
+    "name": "parallel_test",
+    "browserstack.debug": true,
+    "app": "bs://2ed1e367948fd5d2ce03a7b924ec7557dcd3d4fc"
+  },
+
+  "environments": [
+    {
+      "device": "Google Pixel 3",
+      "os_version": "9.0"
+    },
+    {
+      "device": "Samsung Galaxy S10e",
+      "os_version": "9.0"
+    }
+  ]
+}

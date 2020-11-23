@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d7cb10c-cccd-42aa-8b76-e83b675129b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kgvEN3jKKwYLvzB3n102Cjdht0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SetHotelTest.hotelSearchButtonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Genymotion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SetHotelTest" />
+      <option name="METHOD_NAME" value="hotelSearchButtonTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SetHotelTest.hotelSearchButtonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7cb10c-cccd-42aa-8b76-e83b675129b4" name="Default Changelist" comment="" />
+      <created>1606134938082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606134938082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="96" key="GridCell.Tab.0.bottom" timestamp="1606135043330">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="96" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1606135043330" />
+    <state width="1398" height="96" key="GridCell.Tab.0.center" timestamp="1606135043329">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="96" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1606135043329" />
+    <state width="1398" height="96" key="GridCell.Tab.0.left" timestamp="1606135043329">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="96" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1606135043329" />
+    <state width="1398" height="96" key="GridCell.Tab.0.right" timestamp="1606135043330">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="96" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1606135043330" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1606134993618">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1606134993618" />
+  </component>
+</project>

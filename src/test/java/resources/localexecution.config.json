@@ -1,0 +1,13 @@
+{
+  "server": "127.0.0.1:4723",
+  "environments": [
+    {
+      "MobileCapabilityType.UDID": "emulator-5554",
+      "AndroidMobileCapabilityType.SYSTEM_PORT": "8200"
+    },
+    {
+      "MobileCapabilityType.UDID": "emulator-5556",
+      "AndroidMobileCapabilityType.SYSTEM_PORT": "8201"
+    }
+  ]
+}
